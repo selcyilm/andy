@@ -19,7 +19,6 @@ class FranksBookStoreSearchTests {
         driver = CSE1110.getDriver();
     }
 
-    // Write your tests here.
 
     @AfterEach
     public void close() {
